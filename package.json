@@ -2,7 +2,7 @@
   "name": "Vueather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://egrzeszczak.github.io/vueather",
+  "homepage": "https://egrzeszczak.github.io/Vueather",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
