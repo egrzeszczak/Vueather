@@ -1,0 +1,346 @@
+{
+    "200": { 
+        "day_image": "day_thunderstorm.jpg",
+        "night_image": "night_thunderstorm.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "201": { 
+        "day_image": "day_thunderstorm.jpg",
+        "night_image": "night_thunderstorm.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "202": { 
+        "day_image": "day_thunderstorm.jpg",
+        "night_image": "night_thunderstorm.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "210": { 
+        "day_image": "day_thunderstorm.jpg",
+        "night_image": "night_thunderstorm.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "211": { 
+        "day_image": "day_thunderstorm.jpg",
+        "night_image": "night_thunderstorm.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "212": { 
+        "day_image": "day_thunderstorm2.jpg",
+        "night_image": "night_thunderstorm.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "221": { 
+        "day_image": "day_thunderstorm2.jpg",
+        "night_image": "night_thunderstorm.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "230": { 
+        "day_image": "day_thunderstorm2.jpg",
+        "night_image": "night_thunderstorm.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "231": { 
+        "day_image": "day_thunderstorm2.jpg",
+        "night_image": "night_thunderstorm.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "232": { 
+        "day_image": "day_thunderstorm2.jpg",
+        "night_image": "night_thunderstorm.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+
+    "300": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "301": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "302": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "310": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "311": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "312": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "313": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "314": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "321": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+
+    "500": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "501": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "502": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "503": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "504": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "511": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "520": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "521": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "522": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "531": { 
+        "day_image": "day_rain_light.jpg",
+        "night_image": "night_rain_heavy.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+
+    "600": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "601": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "602": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "603": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "611": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "612": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "613": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "615": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "616": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "620": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "621": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "622": { 
+        "day_image": "day_snow.jpg",
+        "night_image": "night_snow.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+
+    "701": { 
+        "day_image": "day_mist.jpg",
+        "night_image": "night_mist.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "711": { 
+        "day_image": "day_smoke.jpg",
+        "night_image": "night_smoke.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "721": { 
+        "day_image": "day_mist.jpg",
+        "night_image": "night_mist.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "731": { 
+        "day_image": "day_dust.jpg",
+        "night_image": "night_dust.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "741": { 
+        "day_image": "day_mist.jpg",
+        "night_image": "night_mist.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "751": { 
+        "day_image": "day_dust.jpg",
+        "night_image": "night_dust.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "761": { 
+        "day_image": "day_dust.jpg",
+        "night_image": "night_dust.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "762": { 
+        "day_image": "night_smoke.jpg",
+        "night_image": "night_smoke.jpg",
+        "day_color": "white",
+        "night_color": "white"
+    },
+    "771": { 
+        "day_image": "day_squall.jpg",
+        "night_image": "night_smoke.jpg",
+        "day_color": "white",
+        "night_color": "white"
+    },
+    "781": { 
+        "day_image": "day_tornado.jpg",
+        "night_image": "night_tornado.jpg",
+        "day_color": "white",
+        "night_color": "white"
+    },
+    
+    
+    
+    
+    "800": {
+        "day_image": "800d.jpg",
+        "night_image": "800n.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "801": {
+        "day_image": "801d.jpg",
+        "night_image": "801n.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "802": {
+        "day_image": "802d.jpg",
+        "night_image": "802n.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "803": {
+        "day_image": "803d.jpg",
+        "night_image": "803n.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    },
+    "804": {
+        "day_image": "804d.jpg",
+        "night_image": "804n.jpg",
+        "day_color": "black",
+        "night_color": "white"
+    }
+}

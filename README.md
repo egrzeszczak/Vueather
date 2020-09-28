@@ -1,24 +1,6 @@
-# weather
+# Vueather
 
-## Project setup
-```
-npm install
-```
+Weather API made with Vue.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![](demo.gif)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
