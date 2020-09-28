@@ -1,7 +1,6 @@
-# Vueather
+# ![](public/favicon.ico) Vueather
 
-Weather API made with Vue.js
+Weather app that uses [OpenWeather API](https://openweathermap.org/api)
 
 ![](demo.gif)
-
 
