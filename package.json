@@ -12,10 +12,8 @@
     "core-js": "^3.6.5",
     "node-sass": "^4.14.1",
     "sass-loader": "^10.0.2",
-    "v-reset-input": "^1.1.2",
     "vue": "^2.6.11",
-    "vue-axios": "^2.1.5",
-    "vue-online": "^1.1.9"
+    "vue-axios": "^2.1.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
